@@ -1,6 +1,4 @@
-
-
-#####
+from katya import Katya
 
 if __name__ == '__main__':
-    print('gugugugu')
+    Katya.pr(10)
